@@ -1,64 +1,42 @@
-# Portfólio — José Gabriel
+# `{DG}` Dev Gabriel — Portfólio
 
-Este é o meu portfólio pessoal como **Desenvolvedor Front-End**, criado com **HTML5, CSS3 e JavaScript** no formato **SPA (Single Page Application)**, seguindo a abordagem **Mobile First**.
+Portfólio profissional de **Dev Gabriel**, desenvolvido para apresentar minha identidade como desenvolvedor Front-End, meus projetos, serviços e formas de contato.
 
-O objetivo deste projeto é apresentar minhas habilidades, experiências, projetos e formas de contato, com um design moderno, responsivo e otimizado para diferentes dispositivos.
+O projeto está sendo construído com foco em uma experiência clara, consistente, responsiva e acessível, utilizando tecnologias fundamentais da Web.
 
----
+## 🎯 Objetivo
 
-## 📌 Estrutura do projeto
+Apresentar meu trabalho e minha evolução como desenvolvedor Front-End, demonstrando minha capacidade de criar interfaces modernas e funcionais para pequenos negócios e diferentes necessidades digitais.
 
-meu-portifolio/ <br>
+O portfólio também funciona como um espaço de aprendizado e aplicação prática dos conhecimentos adquiridos durante meu desenvolvimento profissional.
 
-├── index.html # Página inicial (SPA) <br>
-├── /pages # Conteúdo separado por páginas <br>
-│ ├── sobre.html <br>
-│ ├── curriculo.html <br>
-│ ├── projetos.html <br>
-│ └── contato.html <br>
-│  <br>
-├── /css  <br>
-│ └── styles.css # CSS principal (mobile first)  <br>
-│  <br>
-├── /js  <br>
-│ └── app.js # JS para navegação SPA e interatividade  <br>
-│  <br>
-├── /assets  <br>
-│ ├── /images # Imagens do perfil e projetos  <br>
-│ └── cv.pdf # Currículo  <br>
-│  <br>
-└── README.md # Documentação do projeto <br>
+## 🛠️ Tecnologias
 
+- **HTML5** — estrutura e semântica do conteúdo.
+- **CSS3** — apresentação visual, layout e responsividade.
+- **JavaScript** — interatividade e funcionalidades da interface.
+- **Git e GitHub** — versionamento e publicação do projeto.
 
----
+## 🎨 Identidade visual
 
-## 🚀 Tecnologias utilizadas
-- **HTML5** — Estrutura semântica e acessível  
-- **CSS3** — Estilos responsivos (mobile first) e grid/flexbox  
-- **JavaScript** — Navegação SPA e interatividade  
-- **Git e GitHub** — Versionamento e hospedagem  
-- **Figma** (opcional) — Prototipagem de layout
+O projeto utiliza um sistema visual próprio, com tokens de design, tipografia DM Sans, paleta de cores para temas claro e escuro e componentes com padrões consistentes.
 
----
+A interface segue uma abordagem **Mobile First**: a primeira versão será desenvolvida priorizando dispositivos móveis e evoluirá posteriormente para tablet e desktop.
 
-## 📄 Conteúdo
-O portfólio é dividido nas seguintes páginas:
-1. **Sobre mim** — Apresentação pessoal, trajetória e objetivo profissional.
-2. **Currículo** — Habilidades, formações e experiência (com link para download em PDF).
-3. **Projetos** — Lista de projetos com imagens, descrições e links.
-4. **Contato** — Formas de contato e redes sociais.
+## 🚧 Estado do projeto
 
----
+**Em desenvolvimento.**
 
-## 📬 Contato
-- **Telefone:** +55 (83) 986040633  
-- **E-mail:** josegabriel.webdev@gmail.com  
-- **LinkedIn:** [linkedin.com/in/josegabrieldev](https://www.linkedin.com/in/josegabrieldev/)  
-- **GitHub:** [github.com/josegabrieldev](https://github.com/josegabrieldev)  
+A primeira etapa contempla a construção e publicação de uma versão funcional do portfólio, começando pela experiência mobile.
 
----
+As próximas etapas incluem a evolução dos layouts para tablet e desktop, além de melhorias contínuas de acessibilidade, SEO, desempenho e experiência do usuário.
 
-## 📌 Licença
-Este projeto é de uso pessoal e não possui licença aberta para uso ou redistribuição sem autorização.
+## 🌐 Acesse
 
----
+- **Portfólio:** https://josegabrieldev.github.io/portfolio/
+- **GitHub:** https://github.com/josegabrieldev
+- **LinkedIn:** https://www.linkedin.com/in/josegabrieldev/
+
+## 📄 Licença
+
+Projeto pessoal. Todos os direitos reservados. O código e os materiais deste repositório não estão liberados para redistribuição ou uso sem autorização do autor.
